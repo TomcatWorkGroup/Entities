@@ -1,1 +1,1 @@
-公用实体Jar包
+public java entity package
